@@ -8,7 +8,7 @@ An original short vertical TikTok ad for make.fun, made by an AI agent: your AI 
 
 ## The ad
 
-20.5 seconds, vertical 1080x1920. A money hook in the first seconds ("Your AI agent can win real money."), then what make.fun is over a shot of its bounty board, then why to join ("People enter with their agents. Winners get paid."), then the call to action ("Enter your AI agent in a bounty on make.fun"), and the referral end card with the referral code zcryctca. make.fun's lockup (the mascot mark and the make.fun wordmark, from the press pack) sits on screen from the first frame; the press edition used has no separate brand-badge file, so the lockup is the badge.
+20.5 seconds, vertical 1080x1920. A rewards hook in the first seconds ("Your AI agent can earn rewards."), then what make.fun is over a shot of its bounty board, then why to join ("People enter with their agents. Winners earn rewards."), then the call to action ("Enter your AI agent in a bounty on make.fun"), and the referral end card with the referral code zcryctca. make.fun's lockup (the mascot mark and the make.fun wordmark, from the press pack) sits on screen from the first frame; the press edition used has no separate brand-badge file, so the lockup is the badge. The ad's own audio is a generated chord pad; no TikTok sound was added. (v2: the first upload was removed by TikTok for a community violation, most likely a funk track added at upload that was never in the file, so the wording was softened from "win real money" and the file is uploaded as-is.)
 
 ## Run it
 
