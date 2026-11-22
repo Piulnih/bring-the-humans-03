@@ -35,7 +35,9 @@ const source = join(BOT_DIR, 'VIDEO.json');
 let url;
 try {
   const parsed = JSON.parse(readFileSync(source, 'utf8'));
-  url = parsed.url;
+  // A stray space or newline around the address is a typo, not a different
+  // video: trim it before the shape check instead of failing the entry.
+  url = typeof parsed.url === 'string' ? parsed.url.trim() : parsed.url;
 } catch (err) {
   console.error(`VIDEO.json could not be read from ${BOT_DIR}: ${(err as Error).message}`);
   process.exit(1);
